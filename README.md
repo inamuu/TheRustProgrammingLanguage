@@ -5,7 +5,7 @@ https://doc.rust-jp.rs/book-ja/
 
 
 - [ ] 1. 事始め
-- [ ] 1.1. インストール
+- [x] 1.1. インストール
 - [ ] 1.2. Hello, World!
 - [ ] 1.3. Hello, Cargo!
 - [ ] 2. 数当てゲームをプログラムする
