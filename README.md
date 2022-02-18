@@ -4,10 +4,10 @@ The Rust Programming Language 日本語版 写経
 https://doc.rust-jp.rs/book-ja/
 
 
-- [ ] 1. 事始め
+- [x] 1. 事始め
 - [x] 1.1. インストール
-- [ ] 1.2. Hello, World!
-- [ ] 1.3. Hello, Cargo!
+- [x] 1.2. Hello, World!
+- [x] 1.3. Hello, Cargo!
 - [ ] 2. 数当てゲームをプログラムする
 - [ ] 3. 一般的なプログラミングの概念
 - [ ] 3.1. 変数と可変性
