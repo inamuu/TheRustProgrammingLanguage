@@ -1,0 +1,4 @@
+
+```rust
+cargo new XXX
+```
