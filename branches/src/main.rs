@@ -1,9 +1,9 @@
 fn main() {
-    let number = 3;
+    let mut number = 3;
 
-    if number < 5 {
-        println!("condition was true");
-    } else {
-        println!("condition was false");
+    while number != 0 {
+        println!("{}!", number);
+
+        number = number - 1;
     }
 }
